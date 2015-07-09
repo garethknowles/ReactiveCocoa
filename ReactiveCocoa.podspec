@@ -34,6 +34,4 @@ Pod::Spec.new do |s|
     ss.ios.framework = 'UIKit'
     ss.osx.framework = 'AppKit'
   end
-
-  s.dependency "LlamaKit", "0.1.1"
 end
